@@ -1,4 +1,4 @@
-package com.alfa.currency.model;
+package com.alfa.currency.currencyGifModel;
 
 import lombok.Getter;
 import lombok.Setter;

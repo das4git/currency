@@ -1,6 +1,6 @@
 package com.alfa.currency.service;
 
-import com.alfa.currency.model.Gif;
+import com.alfa.currency.currencyGifModel.Gif;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;

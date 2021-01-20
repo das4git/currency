@@ -1,6 +1,6 @@
 package com.alfa.currency.service;
 
-import com.alfa.currency.model.Gif;
+import com.alfa.currency.currencyGifModel.Gif;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
